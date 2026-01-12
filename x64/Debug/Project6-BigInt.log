@@ -1,0 +1,9 @@
+﻿  BigInt.cpp
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(47,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(89,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(90,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(113,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(114,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(185,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\BigInt.cpp(186,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project6-BigInt.vcxproj -> C:\Users\ender\OneDrive\Desktop\CSULB\Spring2025\Cecs325_SystemProgramming\Project6-BigInt\x64\Debug\Project6-BigInt.exe
